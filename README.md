@@ -38,13 +38,13 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 **Some of my interets are:**  
   
-
-- Running
--climbing
--gaming
--movies and tv series 
--technologies  
-  
+<list>
+  <ul> Running </ul>
+  <ul> climbing </ul>
+  <ul> gaming </ul>
+  <ul> movies and tv series </ul>
+  <ul> technologies  </ul>
+  </list>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jpwiig&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
