@@ -46,5 +46,5 @@ I am currently enrolled in the bachelor's program for applied computer science a
   <ul> technologies  </li>
   </list>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jpwiig&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
+<div align="center"><img src="!https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&layout=compact" align="left" /></div>
 <br />
