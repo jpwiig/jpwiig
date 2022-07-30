@@ -43,8 +43,8 @@ I am currently enrolled in the bachelor's program for applied computer science a
   <li> climbing </li>
   <li> gaming </ul>
   <li> movies and tv series </li>
-  <ul> technologies  </li>
+  <li> technologies  </li>
   </list>
 
-<div align="center"><img src="!https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&layout=compact" align="left" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig" align="left" /></div>
 <br />
