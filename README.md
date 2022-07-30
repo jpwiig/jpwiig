@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to my  coding world  
+  
+
+<div align="center">
+<a href="https://github.com/https://github.com/jpwiig" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/jonpetterwiig" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/jpwiig/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me.  
+  
+
+**Some of my interets are:**  
+  
+
+- Running
+-climbing
+-gaming
+-movies and tv series 
+-technologies  
+  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jpwiig&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br />
