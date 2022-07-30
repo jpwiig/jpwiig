@@ -43,9 +43,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
   <li> movies and tv series </li>
   <li> technologies  </li>
   </list>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5K2rk53f4LxzsRnIXmqbZJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
+  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&theme=highcontrast&layout=compact" align="right" /><img src ="https://github-readme-stats.vercel.app/api?username=jpwiig&theme=highcontrast&show_icons=true&count_private=true" align="left"/>
 </div>
