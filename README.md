@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites
+I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites! Main lanuage i am focusing on right now is java, but i love challenges!
   
 
 **Some of my interets are:**  
@@ -44,7 +44,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
   <li> technologies  </li>
   </list>
   
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&theme=highcontrast&layout=compact" align="right" /><img src ="https://github-readme-stats.vercel.app/api?username=jpwiig&theme=highcontrast&show_icons=true&count_private=true" align="left"/>
 </div>
 <br />
