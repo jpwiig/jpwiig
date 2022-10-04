@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites! Main lanuage i am focusing on right now is java, but i love challenges!
+I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites! Main lanuage i am focusing on right now is java, but i love challenges! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400) and other school related projects
   
 
 **Some of my interets are:**  
