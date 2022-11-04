@@ -32,7 +32,22 @@ Here are some ideas to get you started:
 <br/>  
 
 I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites! Main lanuage i am focusing on right now is java, but i love challenges! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400) and other school related projects
+
+# Subjects during my degree
+
+<list>
+  <ul>Algoritm and datastructures</ul>
+  <ul>Human Computer interaction </ul> 
+  <ul>Software engineering </ul> 
+  <ul> web programming </ul>
+  <ul> Databases </ul> 
+  <ul> visualization </ul> 
+  <ul> programming </ul>
+  <ul> inclusive web design </ul>
+  <ul> Prototyping and interaction design</ul>
+  </list>
   
+
 
 **Some of my interets are:**  
   
@@ -48,3 +63,5 @@ I am currently enrolled in the bachelor's program for applied computer science a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&theme=highcontrast&layout=compact"  /><img src ="https://github-readme-stats.vercel.app/api?username=jpwiig&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 </div>
 <br />
+
+
