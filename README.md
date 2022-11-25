@@ -35,21 +35,31 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 ## Subjects during my degree
 
-##### 3 Semester 
+
+##### 4th Semester
+* Operative systems 
+* Testing 
+* Internet of things
+
+##### 3th Semester 
  * Algoritm and datastructures
  * Human Computer interaction 
- * Software engineering 
- ##### 2 semester
+* Software engineering 
+
+##### 2th semester
  * web programming 
  * Databases 
  * visualization
-##### 1 semester
+##### 1st semester
  * programming 
  * inclusive web design
  * Prototyping and interaction design
  
   
 
+##### Subjects that i have been TA in: 
+* Programming
+* Web programming
 
 ### some of my interestes are:   
   
