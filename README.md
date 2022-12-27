@@ -38,21 +38,21 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 ##### 4th Semester
 * Operative systems 
-* Testing 
+* Testing <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto">
 * Internet of things
 
 ##### 3th Semester 
- * Algoritm and datastructures
+ * Algoritm and datastructures <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto">
  * Human Computer interaction 
 * Software engineering 
 
 ##### 2th semester
- * web programming 
- * Databases 
+ * web programming <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto"> <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt ="Spring Boot" height ="10" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" alt ="JavaScript" width = 10> <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt = "MySQL" width = 10>
+ * Databases <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt = "MySQL" width = 10>
  * visualization
 ##### 1st semester
- * programming 
- * inclusive web design
+ * programming <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto">
+ * inclusive web design <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" alt ="HTML 5" height = 10 width = "auto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt ="CSS" height = 14 width = "auto">
  * Prototyping and interaction design
  
   
