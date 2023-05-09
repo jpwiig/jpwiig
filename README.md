@@ -37,7 +37,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 
 ##### 4th Semester
-* Operative systems 
+* Operating systems 
 * Testing <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto">
 * Internet of things
 
@@ -58,8 +58,8 @@ I am currently enrolled in the bachelor's program for applied computer science a
   
 
 ##### Subjects that i have been TA in: 
-* Programming
-* Web programming
+* Programming (DAPE1400)
+* Web programming(DATA1700)
 
 ### some of my interestes are:   
   
