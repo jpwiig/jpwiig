@@ -35,6 +35,10 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 ## Subjects during my degree
 
+##### 5th Semester
+* Computer security
+* Web Applications
+* Introduction to Artificial Inteligence
 
 ##### 4th Semester
 * Operating systems 
