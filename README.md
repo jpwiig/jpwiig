@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>  
 </div>  
   
-
+[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell)](https://skillicons.dev)
 <br/>  
 
 I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites! Main lanuage i am focusing on right now is java, but i love challenges! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400 and DATA1700) and other school related projects
@@ -55,8 +55,8 @@ I am currently enrolled in the bachelor's program for applied computer science a
  * Databases <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt = "MySQL" width = 10>
  * visualization
 ##### 1st semester
- * programming <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto">
- * inclusive web design <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" alt ="HTML 5" height = 10 width = "auto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt ="CSS" height = 14 width = "auto">
+ * programming 
+ * inclusive web design 
  * Prototyping and interaction design
  
   
