@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>  
 </div>  
   
-[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,postgresql)](https://skillicons.dev)
 <br/>  
 
 I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites! Main lanuage i am focusing on right now is java, but i love challenges! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400 and DATA1700) and other school related projects
@@ -42,17 +42,17 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 ##### 4th Semester
 * Operating systems 
-* Testing <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto">
+* Testing 
 * Internet of things
 
 ##### 3th Semester 
- * Algoritm and datastructures <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto">
+ * Algoritm and datastructures
  * Human Computer interaction 
 * Software engineering 
 
 ##### 2th semester
- * web programming <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "java" height = "10" width = "auto"> <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt ="Spring Boot" height ="10" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" alt ="JavaScript" width = 10> <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt = "MySQL" width = 10>
- * Databases <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt = "MySQL" width = 10>
+ * web programming 
+ * Databases 
  * visualization
 ##### 1st semester
  * programming 
