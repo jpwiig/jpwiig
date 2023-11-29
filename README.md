@@ -64,6 +64,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
   
 
 ##### Subjects that i have been TA in: 
+* Soon ~DATA2500~
 * Programming (DAPE1400)
 * Web programming(DATA1700)
 
