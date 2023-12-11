@@ -1,19 +1,6 @@
-<!--
-**jpwiig/jpwiig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Welcome to my  coding world  
+# Welcome to my tech world!
 
 <div align="center">
 <a href="https://github.com/jpwiig" target="_blank">
@@ -31,7 +18,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea)](https://skillicons.dev)
 <br/>  
 
-I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am also looking for summer internship oppertunites! Main lanuage i am focusing on right now is java, but i love challenges! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400 and DATA1700) and other school related projects
+I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am looking for summer internship oppertunites! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400 and DATA1700) and other school related projects. I wish to persue a carrier within cybersecurity. So i am currently working on breaking into the feild of cybersec! 
 
 ## Subjects during my degree
 
@@ -63,7 +50,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
  
   
 
-##### Subjects that i have been TA in: 
+##### Subjects that i have been TA in @ Oslomet: 
 * Soon ~DATA2500~
 * Programming (DAPE1400)
 * Web programming(DATA1700)
@@ -76,7 +63,8 @@ I am currently enrolled in the bachelor's program for applied computer science a
 + gaming
 + movies and tv series
 + technologies  
-  
+
+**All my open projects are subject to pull requests and constructive critism!**
   
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&theme=highcontrast&layout=compact"  /><img src ="https://github-readme-stats.vercel.app/api?username=jpwiig&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
