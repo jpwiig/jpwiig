@@ -51,9 +51,17 @@ I am currently enrolled in the bachelor's program for applied computer science a
   
 
 ##### Subjects that i have been TA in @ Oslomet: 
-* Soon ~DATA2500~
+* Operating Systems (DATA2500)
 * Programming (DAPE1400)
 * Web programming(DATA1700)
+
+### My technical interests now: 
+- full-stack web developing (With more focus on back-end and databases development)
+- Cyber security
+- CTF and technical challenges
+- low level coding and reverse engineering
+
+  **Basically everything i have been able to explore**
 
 ### some of my interestes are:   
   
