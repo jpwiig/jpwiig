@@ -22,9 +22,12 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 ## Subjects during my degree
 
+##### 6th Semester
+* [Bacglor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2023/H%C3%98ST)
+* [Network and System ADminstration](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3610/2023/H%C3%98ST)
 ##### 5th Semester
 * [Computer security](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3100/2023/H%C3%98ST)
-* [Web Applications](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3200/2023/H%C3%98ST)
+* [Web Applications](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3200/2023/H%C3%98ST) 
 * [Introduction to Artificial Inteligence](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3625/2023/H%C3%98ST)
 
 ##### 4th Semester
