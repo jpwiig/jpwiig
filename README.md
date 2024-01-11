@@ -20,10 +20,17 @@
 
 I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am looking for summer internship oppertunites! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400 and DATA1700) and other school related projects. I wish to persue a carrier within cybersecurity. So i am currently working on breaking into the field of cyber security! 
 
-## Subjects during my degree
+# Higher Education(2021 ->): 
+
+ - ### Oslo Metropolitan University
+  - ### Applied Computer Science:
+    - ### Spesialitation Programming
+
+
+### Subjects during my degree
 
 ##### 6th Semester
-* [Bacglor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2023/H%C3%98ST)
+* [Bachelor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2023/H%C3%98ST)
 * [Network and System Adminstration](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3610/2023/H%C3%98ST)
 ##### 5th Semester
 * [Computer security](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3100/2023/H%C3%98ST)
@@ -52,7 +59,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
  * [Prototyping and interaction design](https://student.oslomet.no/en/studier/-/studieinfo/emne/ADTS1600/2023/H%C3%98ST)
  
   
-
+--- 
 ##### Subjects that i have been TA in @ Oslomet: 
 * Operating Systems (DATA2500)
 * Programming (DAPE1400)
