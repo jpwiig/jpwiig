@@ -22,7 +22,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 # Higher Education(2021 ->): 
 
- - ### Oslo Metropolitan University
+ - ### Oslo Metropolitan University (2021-2024)
   - ### Applied Computer Science:
     - ### Spesialitation Programming
 
