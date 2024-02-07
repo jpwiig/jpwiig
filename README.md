@@ -39,7 +39,7 @@ I am currently enrolled in the bachelor's program for applied computer science a
 
 ##### 4th Semester
 * [Operating systems](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2022/H%C3%98ST) 
-* [Testing](https://student.oslomet.no/en/studier/-/studieinfo/emne/ADTS2310/2022/H%C3%98ST) 
+* [Software Testing](https://student.oslomet.no/en/studier/-/studieinfo/emne/ADTS2310/2022/H%C3%98ST) 
 * [Internet of things](https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE1310/2022/H%C3%98ST)
 
 ##### 3th Semester 
