@@ -1,6 +1,7 @@
 
 
 # Welcome to my tech world!
+Y'all knows how fun tech is?
 
 <div align="center">
 <a href="https://github.com/jpwiig" target="_blank">
@@ -15,7 +16,7 @@
 </div>  
 
 ### Some tools that i have used
-[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea,firebase,debian,maven&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea,firebase,debian,maven&perline=9)](https://skillicons.dev)
 <br/>  
 
 ### Currently learning
