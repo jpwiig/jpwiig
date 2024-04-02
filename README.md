@@ -14,11 +14,13 @@
 </a>  
 </div>  
 
-  #### Some tools that i have used
-[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea)](https://skillicons.dev)
+### Some tools that i have used
+[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea,firebase,debian,maven&perline=6)](https://skillicons.dev)
 <br/>  
 
-I am currently enrolled in the bachelor's program for applied computer science at Oslo Metropolitan University, where i discovered the fun with coding. You can see my personal coding projects based on my hobbies like music and photography on this page.  Enjoy your stay and get lost! And if you are curios about something, don't hesitate to ask me. I am looking for summer internship oppertunites! You can also see some the work that i did as a teachers assistant in the introduction to java (DAPE1400 and DATA1700) and other school related projects. I wish to persue a carrier within cybersecurity. So i am currently working on breaking into the field of cyber security! 
+### Currently learning
+[![Currently learning](https://skillicons.dev/icons?i=rust,c,cpp,kali&perline=4)](https://skillicons.dev)
+
 
 # Higher Education(2021 ->): 
 
