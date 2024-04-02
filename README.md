@@ -1,8 +1,6 @@
 
 
 # Welcome to my tech world!
-Y'all knows how fun tech is?
-
 <div align="center">
 <a href="https://github.com/jpwiig" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -14,6 +12,9 @@ Y'all knows how fun tech is?
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+Y'all knows how fun tech is?
+
 
 ### Some tools that i have used
 [![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea,firebase,debian,maven&perline=9)](https://skillicons.dev)
