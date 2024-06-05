@@ -86,6 +86,11 @@ Questions: Shoot me a mail at echo@jpwiig.dev!
 + movies and tv series
 + technologies  
 
+#### I promise i have great music taste: 
+---
+
+
+<img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=pet2226&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pet2226&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
 **All my open projects are subject to pull requests and constructive critism!**
   
 <div>
