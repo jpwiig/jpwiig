@@ -24,7 +24,7 @@ Questions: Shoot me a mail at echo@jpwiig.dev!
 [![Currently learning](https://skillicons.dev/icons?i=rust,c,cpp,kali&perline=4)](https://skillicons.dev)
 
 
-# Higher Education(2021 ->): 
+# Higher Education(2021->): 
 
  - ### Oslo Metropolitan University (2021-2024)
   - ### Applied Computer Science:
@@ -53,12 +53,12 @@ Questions: Shoot me a mail at echo@jpwiig.dev!
   
 
 ##### 2th semester
- * [web programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1700/2022/H%C3%98ST)
+ * [Web Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1700/2022/H%C3%98ST)
  * [Databases](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1500/2022/H%C3%98ST) 
- * [visualization](https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE3200/2022/H%C3%98ST)
+ * [Visualization](https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE3200/2022/H%C3%98ST)
 ##### 1st semester
- * [programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2021/H%C3%98ST) 
- * [inclusive web design](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1200/2021/H%C3%98ST)
+ * [Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2021/H%C3%98ST) 
+ * [Inclusive web design](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1200/2021/H%C3%98ST)
  * [Technology and society for programmers](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1100/2023/H%C3%98ST)
  * [Prototyping and interaction design](https://student.oslomet.no/en/studier/-/studieinfo/emne/ADTS1600/2023/H%C3%98ST)
  
@@ -70,33 +70,17 @@ Questions: Shoot me a mail at echo@jpwiig.dev!
 * Web programming(DATA1700)
 
 ### My technical interests now: 
-- full-stack web developing (With more focus on back-end and databases development)
+- Full-stack web development (With focus on back-end and databases development)
 - Cyber security
 - CTF and technical challenges
-- low level coding and reverse engineering
+- Low level coding and reverse engineering
 
   **Basically everything i have been able to explore**
 
-### some of my interestes are:   
-  
-
-+ Running
-+ climbing
-+ gaming
-+ movies and tv series
-+ technologies  
-
-#### I promise i have great music taste: 
----
-
-
-<img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=pet2226&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pet2226&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
 
 **All my open projects are subject to pull requests and constructive critism!**
   
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&theme=highcontrast&layout=compact"  /><img src ="https://github-readme-stats.vercel.app/api?username=jpwiig&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-</div>
-<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&theme=highcontrast&layout=compact"  />
+<img src ="https://github-readme-stats.vercel.app/api?username=jpwiig&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 
 
