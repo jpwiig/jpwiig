@@ -26,12 +26,19 @@ Questions: Shoot me a mail at echo@jpwiig.dev!
 
 # Higher Education(2021->): 
 
- - ### Oslo Metropolitan University (2021-2024)
+ - ### Oslo Metropolitan University (2021-2026)
+ - ### Master of Science: Applied Computer and Information Technologies (ACIT): Cybersecurity
   - ### Applied Computer Science:
     - ### Spesialitation Programming
 
+### Subjects during my Masther Thesis
 
-### Subjects during my degree
+##### 1st semester (7th overall)
+- [Applied Computer And Network Security](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4050/2024/H%C3%98ST)
+- [Understanding and Communication Research](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4100/2022/H%C3%98ST)
+- [Privacy by Design](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4280/2023/H%C3%98ST)
+
+### Subjects during my Bachelor degree
 
 ##### 6th Semester
 * [Bachelor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2023/H%C3%98ST)
