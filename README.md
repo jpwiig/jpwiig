@@ -87,7 +87,5 @@ Questions: Shoot me a mail at echo@jpwiig.dev!
 
 **All my open projects are subject to pull requests and constructive critism!**
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpwiig&theme=highcontrast&layout=compact"  />
-<img src ="https://github-readme-stats.vercel.app/api?username=jpwiig&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
 
 
