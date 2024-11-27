@@ -22,7 +22,8 @@ Y'all knows how fun tech is?
 Questions: Shoot me a mail at echo@jpwiig.dev!
 ### Currently learning
 [![Currently learning](https://skillicons.dev/icons?i=rust,kali,webassembly,go&perline=5)](https://skillicons.dev)
-
+### current tryhackme streak:
+<img src="https://tryhackme-badges.s3.amazonaws.com/jpwiig.png" alt="Your Image Badge" />
 
 # Higher Education(2021->): 
 
