@@ -17,7 +17,7 @@ Y'all knows how fun tech is?
 
 
 ### Some tools that i have used
-[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea,firebase,debian,cloudflare,maven,firebase&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux,docker,git,js,html,css,react,dotnet,bootstrap,heroku,bash,powershell,mysql,idea,debian,cloudflare,maven,gradle,firebase&perline=10)](https://skillicons.dev)
 <br/>  
 Questions: Shoot me a mail at echo@jpwiig.dev!
 ### Currently learning
