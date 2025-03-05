@@ -33,11 +33,14 @@ Questions: Shoot me a mail at echo@jpwiig.dev!
     - ### Spesialitation Programming
 
 ### Subjects during my Masther Thesis
-
+##### 2nd semester (8th overall)
+* [Pratical Cybersecurity](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4290/2024/H%C3%98ST)
+* [Security politics, cyberwar and ethics](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4055/2024/H%C3%98ST)
+* [Interdisciplinary innovation and complex problems](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4200/2024/H%C3%98ST)
 ##### 1st semester (7th overall)
-- [Applied Computer And Network Security](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4050/2024/H%C3%98ST)
-- [Understanding and Communication Research](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4100/2022/H%C3%98ST)
-- [Privacy by Design](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4280/2023/H%C3%98ST)
+* [Applied Computer And Network Security](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4050/2024/H%C3%98ST)
+* [Understanding and Communication Research](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4100/2022/H%C3%98ST)
+* [Privacy by Design](https://student.oslomet.no/en/studier/-/studieinfo/emne/ACIT4280/2023/H%C3%98ST)
 
 ### Subjects during my Bachelor degree
 
